@@ -1,0 +1,2 @@
+# keyauth-v1.3-emulate
+IF THE KEYAUTH VERSION OLD YOU CAN USE ANOTHER FILE.!!
